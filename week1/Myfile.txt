@@ -1,0 +1,4 @@
+Time Temperature [C}
+1 , 75
+5 , 105
+10 , 120
